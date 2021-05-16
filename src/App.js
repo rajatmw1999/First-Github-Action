@@ -1,5 +1,5 @@
 import './App.css';
-import jaqen from './jaqen.gif'
+import jaqen from './images/jaqen.gif'
 
 function App() {
   return (
