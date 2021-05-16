@@ -12,11 +12,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
+      <br/><br/><br/><br/>
         <p>
           <i>A girl must serve the many face gods.</i>
         </p>
-        <br/><br/><br/><br/>
+        
        <Carousel>
         <Carousel.Item>
         <img src={jaqen} className="App-logo" alt="logo" />
